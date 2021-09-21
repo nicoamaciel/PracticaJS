@@ -14,5 +14,6 @@ while(numero <(maximo+1)){
 
 textoFinal = "Los numero pares entre 0 y " + maximo + " son :  \n" + texto;
 
+
 alert(textoFinal);
 console.log(textoFinal);
