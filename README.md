@@ -1,3 +1,3 @@
 # PracticaJS
 PracticasProyectosJS
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+(https://github.com/nicoamaciel/PracticaJS/blob/main/Calculadora/Calcu1.png)
